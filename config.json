@@ -1,0 +1,8 @@
+{
+  "admin_id": 1507830698743038122,
+  "protected_server_id": 1508365196203266048,
+  "logs_channel_id": 1508365196203266048,
+  "vanity_prefix": ".gg/",
+  "recovery_attempts": 3,
+  "recovery_delay": 5  # Secondes entre chaque tentative de récupération
+}
